@@ -1,0 +1,28 @@
+body{
+	background-color: rgb(250, 212, 108);
+}
+a{
+	color: rgb(35, 87, 2);
+}
+h1{
+	color: rgb(5, 82, 16);
+}
+p{
+	color: #0b0456;
+}
+#p1{
+	color: green;
+}
+#p2{
+	color: yellow;
+}
+#p3{
+	color: purple;
+}
+#p4{
+	color: pink;
+}
+#p5{
+	color: gold;
+}
+	
